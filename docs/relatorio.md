@@ -128,3 +128,7 @@
 
 # 
 
+### Procedimento de Revisão Final
+
+Para cumprir o processo de colaboração definido no projeto, as alterações finais ao relatório foram submetidas a revisão por outro participante antes da integração na branch `main`.
+
