@@ -79,3 +79,6 @@ Closes #NÚMERO_DA_ISSUE
 Após a conclusão do projeto, preencher o ficheiro:
 
 `docs/relatorio.md`
+## Licença
+
+Este projeto foi desenvolvido para fins académicos na disciplina de Desenvolvimento de Aplicações e Sistemas (DAS).
